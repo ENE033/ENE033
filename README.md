@@ -1,19 +1,18 @@
 - 
 
 - <p style="display:flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=ENE033&show_icons=true&theme=dracula&count_private=true" style="width:49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ENE033&show_icons=true&locale=en&layout=compact&theme=dracula" 
+    <img src="https://github-readme-stats.vercel.app/api?username=ENE033&show_icons=true&theme=synthwave&count_private=true" style="width:49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ENE033&show_icons=true&locale=en&layout=compact&theme=synthwave" 
   style="width:49%" />
   </p>
   <h2 align="center">Technology Stack</h2>
   <p align="center">
     <img style="height: 30px" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java"/>
     <img style="height: 30px" src="https://img.shields.io/badge/-GO-black?style=flat-square&logo=GO"/>
-    <img style="height: 30px" src="https://img.shields.io/badge/-C/C++-black?style=flat-square&logo=C/C++"/>
-  />
+    <img style="height: 30px" src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENE033&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENE033&layout=compact&theme=synthwave" />
   </p>
 
 
